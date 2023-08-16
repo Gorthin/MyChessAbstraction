@@ -1,0 +1,36 @@
+Determining if the C compiler works failed with the following output:
+Change Dir: /cygdrive/c/Users/adszyman/Desktop/NOKIA/13_MENTOR/C++/MyChessAbstraction/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/cygdrive/c/ProgramData/chocolatey/bin/make.exe cmTC_7ec72/fast && C:/ProgramData/chocolatey/lib/make/tools/install/bin/make.exe  -f CMakeFiles/cmTC_7ec72.dir/build.make CMakeFiles/cmTC_7ec72.dir/build
+make[1]: Entering directory 'C:/Users/adszyman/Desktop/NOKIA/13_MENTOR/C++/MyChessAbstraction/CMakeFiles/CMakeTmp'
+/usr/bin/bash: /usr/bin/cmake.exe: No such file or directory
+make[1]: *** [CMakeFiles/cmTC_7ec72.dir/build.make:85: CMakeFiles/cmTC_7ec72.dir/testCCompiler.c.o] Error 127
+make[1]: Leaving directory 'C:/Users/adszyman/Desktop/NOKIA/13_MENTOR/C++/MyChessAbstraction/CMakeFiles/CMakeTmp'
+make: *** [Makefile:141: cmTC_7ec72/fast] Error 2
+
+
+
+Determining if the C compiler works failed with the following output:
+Change Dir: /cygdrive/c/Users/adszyman/Desktop/NOKIA/13_MENTOR/C++/MyChessAbstraction/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/cygdrive/c/ProgramData/chocolatey/bin/make.exe cmTC_ece29/fast && C:/ProgramData/chocolatey/lib/make/tools/install/bin/make.exe  -f CMakeFiles/cmTC_ece29.dir/build.make CMakeFiles/cmTC_ece29.dir/build
+make[1]: Entering directory 'C:/Users/adszyman/Desktop/NOKIA/13_MENTOR/C++/MyChessAbstraction/CMakeFiles/CMakeTmp'
+/usr/bin/bash: /usr/bin/cmake.exe: No such file or directory
+make[1]: *** [CMakeFiles/cmTC_ece29.dir/build.make:85: CMakeFiles/cmTC_ece29.dir/testCCompiler.c.o] Error 127
+make[1]: Leaving directory 'C:/Users/adszyman/Desktop/NOKIA/13_MENTOR/C++/MyChessAbstraction/CMakeFiles/CMakeTmp'
+make: *** [Makefile:141: cmTC_ece29/fast] Error 2
+
+
+
+Determining if the C compiler works failed with the following output:
+Change Dir: /cygdrive/c/Users/adszyman/Desktop/NOKIA/13_MENTOR/C++/MyChessAbstraction/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/cygdrive/c/ProgramData/chocolatey/bin/make.exe cmTC_2f84c/fast && C:/ProgramData/chocolatey/lib/make/tools/install/bin/make.exe  -f CMakeFiles/cmTC_2f84c.dir/build.make CMakeFiles/cmTC_2f84c.dir/build
+make[1]: Entering directory 'C:/Users/adszyman/Desktop/NOKIA/13_MENTOR/C++/MyChessAbstraction/CMakeFiles/CMakeTmp'
+/usr/bin/bash: /usr/bin/cmake.exe: No such file or directory
+make[1]: *** [CMakeFiles/cmTC_2f84c.dir/build.make:85: CMakeFiles/cmTC_2f84c.dir/testCCompiler.c.o] Error 127
+make[1]: Leaving directory 'C:/Users/adszyman/Desktop/NOKIA/13_MENTOR/C++/MyChessAbstraction/CMakeFiles/CMakeTmp'
+make: *** [Makefile:141: cmTC_2f84c/fast] Error 2
+
+
+
